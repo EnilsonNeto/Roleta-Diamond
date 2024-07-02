@@ -3,7 +3,7 @@
 </h1>
 <br>
 <h1 align="center">
-<img src="https://github.com/EnilsonNeto/crud-aspnet/blob/main/angular/src/shared/images/videoImage.gif">
+<img src="https://github.com/EnilsonNeto/Roleta-Diamond/blob/main/src/assets/img/roletaGif.gif">
 </h1>
 
 ### Tecnologias e Padrões Utilizados
