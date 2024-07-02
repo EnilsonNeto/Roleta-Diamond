@@ -11,7 +11,7 @@
 
 ## 🚀 Projeto
 
-- Recentemente, tive o prazer de concluir um projeto inovador usando Angular, C#, e .NET 6, baseado no robusto ASP.NET Boilerplate. O sistema que criei é uma solução completa para gerenciamento de colaboradores, incorporando funcionalidades de CRUD para criar, listar, editar e excluir registros de forma eficiente.
+- Simulador de Roleta de Cassino, é um projeto o qual criei para me divertir e aprender um pouco. Projeto rapido apenas o me trouxe bastante desafio.
 
 ### Pré-requisitos
 
